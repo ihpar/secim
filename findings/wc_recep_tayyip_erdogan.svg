@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:white"></rect>
+<text transform="translate(18,570)" font-size="216" style="fill:rgb(140, 86, 75)">millet</text>
+<text transform="translate(291,173)" font-size="209" style="fill:rgb(31, 119, 180)">ülke</text>
+<text transform="translate(217,336)" font-size="174" style="fill:rgb(227, 119, 194)">bugün</text>
+<text transform="translate(1,163)" font-size="72" style="fill:rgb(44, 160, 44)">türkiye</text>
+<text transform="translate(65,405)" font-size="69" style="fill:rgb(188, 189, 34)">ver</text>
+<text transform="translate(135,81)" font-size="69" style="fill:rgb(227, 119, 194)">yıl</text>
+<text transform="translate(246,224)" font-size="64" style="fill:rgb(44, 160, 44)">teşekkür</text>
+<text transform="translate(563,389)" font-size="64" style="fill:rgb(31, 119, 180)">kardeş</text>
+<text transform="translate(96,332)" font-size="61" style="fill:rgb(227, 119, 194)">iş</text>
+<text transform="translate(35,266)" font-size="59" style="fill:rgb(148, 103, 189)">çalış</text>
+<text transform="translate(308,385)" font-size="59" style="fill:rgb(31, 119, 180)">gün</text>
+<text transform="translate(486,435)" font-size="47" style="fill:rgb(227, 119, 194)">inşallah</text>
+<text transform="translate(618,219)" font-size="46" style="fill:rgb(255, 127, 14)">mayıs</text>
+<text transform="translate(20,53)" font-size="45" style="fill:rgb(127, 127, 127)">yeni</text>
+<text transform="translate(263,427) rotate(-90)" font-size="45" style="fill:rgb(188, 189, 34)">güç</text>
+<text transform="translate(7,215)" font-size="45" style="fill:rgb(227, 119, 194)">birlikte</text>
+<text transform="translate(398,492)" font-size="45" style="fill:rgb(214, 39, 40)">al</text>
+<text transform="translate(229,538)" font-size="45" style="fill:rgb(31, 119, 180)">yol</text>
+<text transform="translate(27,98)" font-size="45" style="fill:rgb(255, 127, 14)">çık</text>
+<text transform="translate(626,46)" font-size="45" style="fill:rgb(227, 119, 194)">büyük</text>
+<text transform="translate(53,448)" font-size="44" style="fill:rgb(214, 39, 40)">insan</text>
+<text transform="translate(548,134) rotate(-90)" font-size="43" style="fill:rgb(44, 160, 44)">başla</text>
+<text transform="translate(161,591)" font-size="28" style="fill:rgb(148, 103, 189)">türkiye yüzyıl</text>
+<text transform="translate(499,598)" font-size="28" style="fill:rgb(188, 189, 34)">istanbul</text>
+<text transform="translate(497,465)" font-size="28" style="fill:rgb(148, 103, 189)">yer</text>
+<text transform="translate(368,538)" font-size="28" style="fill:rgb(255, 127, 14)">proje</text>
+<text transform="translate(36,591)" font-size="28" style="fill:rgb(140, 86, 75)">hayırlı</text>
+<text transform="translate(246,480)" font-size="28" style="fill:rgb(148, 103, 189)">kazan</text>
+<text transform="translate(56,354)" font-size="28" style="fill:rgb(44, 160, 44)">seçim</text>
+<text transform="translate(384,479) rotate(-90)" font-size="28" style="fill:rgb(148, 103, 189)">inşa</text>
+<text transform="translate(131,32)" font-size="28" style="fill:rgb(255, 127, 14)">şehir</text>
+<text transform="translate(50,415) rotate(-90)" font-size="27" style="fill:rgb(148, 103, 189)">vatandaş</text>
+<text transform="translate(227,457)" font-size="27" style="fill:rgb(140, 86, 75)">hizmet</text>
+<text transform="translate(750,250)" font-size="27" style="fill:rgb(23, 190, 207)">hak</text>
+<text transform="translate(256,24)" font-size="27" style="fill:rgb(227, 119, 194)">kur</text>
+<text transform="translate(420,591)" font-size="27" style="fill:rgb(140, 86, 75)">yaşa</text>
+<text transform="translate(623,538)" font-size="26" style="fill:rgb(214, 39, 40)">dünya</text>
+<text transform="translate(180,105)" font-size="26" style="fill:rgb(148, 103, 189)">sandık</text>
+<text transform="translate(529,550) rotate(-90)" font-size="26" style="fill:rgb(44, 160, 44)">gel</text>
+<text transform="translate(746,275)" font-size="26" style="fill:rgb(140, 86, 75)">ilk</text>
+<text transform="translate(750,532)" font-size="26" style="fill:rgb(44, 160, 44)">baş</text>
+<text transform="translate(670,592)" font-size="26" style="fill:rgb(255, 127, 14)">siyaset</text>
+<text transform="translate(734,140)" font-size="26" style="fill:rgb(140, 86, 75)">üzer</text>
+<text transform="translate(372,514)" font-size="26" style="fill:rgb(23, 190, 207)">devam</text>
+<text transform="translate(734,439)" font-size="26" style="fill:rgb(31, 119, 180)">gör</text>
+<text transform="translate(426,151) rotate(-90)" font-size="26" style="fill:rgb(44, 160, 44)">muhteşem</text>
+<text transform="translate(6,22)" font-size="26" style="fill:rgb(31, 119, 180)">teslim</text>
+<text transform="translate(326,97)" font-size="26" style="fill:rgb(23, 190, 207)">sür</text>
+<text transform="translate(232,500)" font-size="26" style="fill:rgb(255, 127, 14)">destek</text>
+<text transform="translate(727,307)" font-size="26" style="fill:rgb(44, 160, 44)">alan</text>
+<text transform="translate(157,357)" font-size="26" style="fill:rgb(23, 190, 207)">güzel</text>
+<text transform="translate(23,564) rotate(-90)" font-size="26" style="fill:rgb(127, 127, 127)">mücadele</text>
+<text transform="translate(459,152) rotate(-90)" font-size="26" style="fill:rgb(214, 39, 40)">deprem</text>
+<text transform="translate(707,414)" font-size="26" style="fill:rgb(148, 103, 189)">ara</text>
+<text transform="translate(629,110)" font-size="26" style="fill:rgb(44, 160, 44)">yan</text>
+<text transform="translate(507,122) rotate(-90)" font-size="26" style="fill:rgb(140, 86, 75)">yatırım</text>
+<text transform="translate(546,206)" font-size="26" style="fill:rgb(31, 119, 180)">iste</text>
+<text transform="translate(242,43)" font-size="26" style="fill:rgb(44, 160, 44)">güven</text>
+<text transform="translate(536,381) rotate(-90)" font-size="26" style="fill:rgb(31, 119, 180)">genç</text>
+<text transform="translate(143,542)" font-size="26" style="fill:rgb(148, 103, 189)">tek</text>
+<text transform="translate(296,434) rotate(-90)" font-size="26" style="fill:rgb(44, 160, 44)">başarı</text>
+<text transform="translate(362,406)" font-size="26" style="fill:rgb(255, 127, 14)">el</text>
+<text transform="translate(185,325)" font-size="26" style="fill:rgb(214, 39, 40)">iç</text>
+<text transform="translate(688,350) rotate(-90)" font-size="26" style="fill:rgb(227, 119, 194)">sahip</text>
+<text transform="translate(108,71)" font-size="26" style="fill:rgb(148, 103, 189)">aç</text>
+<text transform="translate(409,398)" font-size="26" style="fill:rgb(44, 160, 44)">buluş</text>
+<text transform="translate(22,404) rotate(-90)" font-size="26" style="fill:rgb(255, 127, 14)">temel at</text>
+<text transform="translate(378,318) rotate(-90)" font-size="26" style="fill:rgb(44, 160, 44)">bırak</text>
+<text transform="translate(638,307) rotate(-90)" font-size="26" style="fill:rgb(188, 189, 34)">aynı</text>
+<text transform="translate(432,320) rotate(-90)" font-size="26" style="fill:rgb(31, 119, 180)">siyasi</text>
+<text transform="translate(71,566) rotate(-90)" font-size="26" style="fill:rgb(31, 119, 180)">eser</text>
+<text transform="translate(116,569) rotate(-90)" font-size="26" style="fill:rgb(188, 189, 34)">konut</text>
+<text transform="translate(730,338)" font-size="26" style="fill:rgb(148, 103, 189)">ev</text>
+<text transform="translate(579,306) rotate(-90)" font-size="26" style="fill:rgb(255, 127, 14)">şekil</text>
+<text transform="translate(792,225) rotate(-90)" font-size="26" style="fill:rgb(44, 160, 44)">gönül</text>
+<text transform="translate(605,450)" font-size="26" style="fill:rgb(44, 160, 44)">son</text>
+<text transform="translate(63,284)" font-size="22" style="fill:rgb(23, 190, 207)">demokrasi</text>
+<text transform="translate(642,188)" font-size="17" style="fill:rgb(148, 103, 189)">milyar lira</text>
+<text transform="translate(328,14)" font-size="17" style="fill:rgb(23, 190, 207)">sahip çık</text>
+<text transform="translate(738,484)" font-size="17" style="fill:rgb(31, 119, 180)">karşı</text>
+<text transform="translate(248,66)" font-size="17" style="fill:rgb(140, 86, 75)">hayal</text>
+<text transform="translate(146,517)" font-size="17" style="fill:rgb(140, 86, 75)">zaman</text>
+<text transform="translate(136,418)" font-size="17" style="fill:rgb(31, 119, 180)">göster</text>
+<text transform="translate(72,420)" font-size="17" style="fill:rgb(31, 119, 180)">irade</text>
+<text transform="translate(57,297)" font-size="17" style="fill:rgb(255, 127, 14)">dönem</text>
+<text transform="translate(490,151)" font-size="17" style="fill:rgb(140, 86, 75)">gelecek</text>
+<text transform="translate(84,117)" font-size="17" style="fill:rgb(148, 103, 189)">karar</text>
+<text transform="translate(393,442)" font-size="17" style="fill:rgb(214, 39, 40)">gerçek</text>
+<text transform="translate(656,483)" font-size="17" style="fill:rgb(44, 160, 44)">getir</text>
+<text transform="translate(740,510)" font-size="17" style="fill:rgb(227, 119, 194)">hedef</text>
+<text transform="translate(586,64)" font-size="17" style="fill:rgb(31, 119, 180)">türk</text>
+<text transform="translate(547,403)" font-size="17" style="fill:rgb(23, 190, 207)">hayat</text>
+<text transform="translate(615,234)" font-size="17" style="fill:rgb(140, 86, 75)">değer</text>
+<text transform="translate(769,316)" font-size="17" style="fill:rgb(188, 189, 34)">ay</text>
+<text transform="translate(147,231)" font-size="17" style="fill:rgb(44, 160, 44)">sadece</text>
+<text transform="translate(663,514)" font-size="17" style="fill:rgb(127, 127, 127)">bil</text>
+<text transform="translate(587,352)" font-size="17" style="fill:rgb(140, 86, 75)">beraber</text>
+<text transform="translate(666,570)" font-size="17" style="fill:rgb(44, 160, 44)">aile</text>
+<text transform="translate(115,173)" font-size="17" style="fill:rgb(44, 160, 44)">gurur</text>
+<text transform="translate(143,500)" font-size="17" style="fill:rgb(140, 86, 75)">toplam</text>
+</svg>
