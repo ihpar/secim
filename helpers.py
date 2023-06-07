@@ -1,0 +1,15 @@
+def convert_filename(name):
+    name = name.replace("İ", "I")
+    name = name.replace("ı", "i")
+    name = name.replace("ç", "c")
+    name = name.replace("Ç", "C")
+    name = name.replace("ğ", "g")
+    name = name.replace("Ğ", "G")
+    name = name.replace("ö", "o")
+    name = name.replace("Ö", "O")
+    name = name.replace("ü", "u")
+    name = name.replace("Ü", "U")
+    name = name.replace("ş", "s")
+    name = name.replace("Ş", "S")
+    name = name.replace(" ", "_")
+    return name
